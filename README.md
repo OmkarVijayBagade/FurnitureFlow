@@ -31,15 +31,15 @@ IDE:          Xcode
 🖼️ Screenshots
 
 <p align="left">
-    <img src="screenshots/FurnitureFlowSS1.png" alt="Onboarding Screen" width="180"/>
-    <img src="screenshots/FurnitureFlowSS2.png" alt="Home Screen" width="180"/>
-    <img src="screenshots/FurnitureFlowSS3.png" alt="UserProfile Screen" width="180"/>
-    <img src="screenshots/FurnitureFlowSS4.png" alt="FilterSheet Screen" width="180"/>
-    <img src="screenshots/FurnitureFlowSS5.png" alt="AllCategory Screen" width="180"/>
-	<img src="screenshots/FurnitureFlowSS6.png" alt="Trending Screen" width="180"/>
-    <img src="screenshots/FurnitureFlowSS7.png" alt="FurnitureDetail Screen" width="180"/>
-    <img src="screenshots/FurnitureFlowSS8.png" alt="MyCart Screen" width="180"/>
-    <img src="screenshots/FurnitureFlowSS9.png" alt="Payment Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS1.png" alt="Onboarding Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS2.png" alt="Home Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS3.png" alt="UserProfile Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS4.png" alt="FilterSheet Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS5.png" alt="AllCategory Screen" width="180"/>
+	<img src="Screenshots/FurnitureFlowSS6.png" alt="Trending Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS7.png" alt="FurnitureDetail Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS8.png" alt="MyCart Screen" width="180"/>
+    <img src="Screenshots/FurnitureFlowSS9.png" alt="Payment Screen" width="180"/>
 </p>
 
 
