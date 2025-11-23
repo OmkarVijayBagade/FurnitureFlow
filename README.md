@@ -30,12 +30,16 @@ IDE:          Xcode
 
 🖼️ Screenshots
 
-<p align="center">
-    <img src="screenshots/home.png" alt="Home Screen" width="180"/>
-    <img src="screenshots/detail.png" alt="Detail Screen" width="180"/>
-    <img src="screenshots/cart.png" alt="Cart Screen" width="180"/>
-    <img src="screenshots/payment.png" alt="Payment Screen" width="180"/>
-    <img src="screenshots/profile.png" alt="Profile Screen" width="180"/>
+<p align="left">
+    <img src="screenshots/FurnitureFlowSS1.png" alt="Onboarding Screen" width="180"/>
+    <img src="screenshots/FurnitureFlowSS2.png" alt="Home Screen" width="180"/>
+    <img src="screenshots/FurnitureFlowSS3.png" alt="UserProfile Screen" width="180"/>
+    <img src="screenshots/FurnitureFlowSS4.png" alt="FilterSheet Screen" width="180"/>
+    <img src="screenshots/FurnitureFlowSS5.png" alt="AllCategory Screen" width="180"/>
+	<img src="screenshots/FurnitureFlowSS6.png" alt="Trending Screen" width="180"/>
+    <img src="screenshots/FurnitureFlowSS7.png" alt="FurnitureDetail Screen" width="180"/>
+    <img src="screenshots/FurnitureFlowSS8.png" alt="MyCart Screen" width="180"/>
+    <img src="screenshots/FurnitureFlowSS9.png" alt="Payment Screen" width="180"/>
 </p>
 
 
